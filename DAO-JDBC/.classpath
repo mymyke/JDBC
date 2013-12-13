@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="jooq-3.2.0.jar"/>
+	<classpathentry kind="lib" path="jooq-codegen-3.2.0.jar"/>
+	<classpathentry kind="lib" path="jooq-meta-3.2.0.jar"/>
+	<classpathentry kind="lib" path="jooq-scala-3.2.0.jar"/>
+	<classpathentry kind="lib" path="mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
